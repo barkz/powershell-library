@@ -5,5 +5,5 @@
 *.html
 
 # IDE files
-.vscode/
-/.vscode
+*.vscode/
+settings.json
